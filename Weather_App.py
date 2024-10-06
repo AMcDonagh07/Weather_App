@@ -3,7 +3,7 @@
 import requests
 
 # Replace with your OpenWeatherMap API key
-API_KEY = 'c3a4771b9f7a8e8a75b8c721a2eb721f'
+API_KEY = 'Your API Here!'
 
 def get_weather(city):
     # OpenWeatherMap URL for current weather data
